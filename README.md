@@ -29,3 +29,30 @@ Make sure you have the following installed:
 - Optional: `langchain`, `openai`, `pandas`, `ipython`, etc.
 
 
+## 🧪 Example Use
+Enter a prompt such as:
+
+"Plan a 5-day trip to Tokyo for a solo traveler interested in food and technology."
+
+The agent will return:
+
+A 5-day itinerary
+
+Locations to visit
+
+Activity breakdowns by day
+
+Tips or extra notes
+
+## 📈 Use Cases
+Travel agencies looking to streamline itinerary generation
+
+Developers building travel planning apps
+
+Personal use for planning trips with AI assistance
+
+## 📜 License
+This project is open-source and available under the MIT License.
+
+## 🤝 Contributing
+Contributions and feedback are welcome! Feel free to open issues or submit pull requests.
